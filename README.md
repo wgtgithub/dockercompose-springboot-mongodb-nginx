@@ -15,5 +15,5 @@
 - Maven
 
 ## Run
-- Run command `docker-compose up`
+- Run command `docker-compose up -d`
 - Access to http://localhost/
